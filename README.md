@@ -1,1 +1,1 @@
-# Tévaluer et sauvegarder un réseau de neurones artificiel (ANN) pour la classification binaire
+# évaluer et sauvegarder un réseau de neurones artificiel (ANN) pour la classification binaire
